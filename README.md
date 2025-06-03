@@ -1,4 +1,4 @@
-Hi, I’m @Calvincordula, an AI and Machine Learning enthusiast passionate about deep learning, natural language processing (NLP), and computer vision.
+Hi, I’m Calvin, an AI and Machine Learning enthusiast passionate about deep learning, natural language processing (NLP), and computer vision.
 
 🔍 Interests:
 
